@@ -4,15 +4,13 @@
 
 ## This software is not related to MultiMC developers and provided without any warranty. Please don't bomb MultiMC developers if something gets wrong using this launcher
 
-## Pre-built binaries
+## Pre-built binaries (1.20.2, mods and etc UUID Error fix)
 
-- Windows / Linux / MacOS: <https://nightly.link/dptmc/Launcher/workflows/main/develop>
+*Windows:* Download [mmc-cracked-win32](https://github.com/dptmc/Launcher/releases/download/uuid-fix/mmc-cracked-win32.zip).
 
-*Windows:* Download [mmc-cracked-win32](https://nightly.link/dptmc/Launcher/workflows/main/develop/mmc-cracked-win32.zip).
+*Linux:* Download [mmc-cracked-lin64](https://github.com/dptmc/Launcher/releases/download/uuid-fix/mmc-cracked-lin64.zip).
 
-*Linux:* Download [mmc-cracked-lin64](https://nightly.link/dptmc/Launcher/workflows/main/develop/mmc-cracked-lin64.zip).
-
-*macOS (10.14 and newer):* Download [mmc-cracked-osx64](https://nightly.link/dptmc/Launcher/workflows/main/develop/mmc-cracked-osx64.zip).
+*macOS (10.14 and newer):* Download [mmc-cracked-osx64](https://github.com/dptmc/Launcher/releases/download/uuid-fix/mmc-cracked-osx64.zip).
 
 To update the launcher replace all replaceable files and folders with the newer ones from any of the links listed above.
 
